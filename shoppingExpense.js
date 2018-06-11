@@ -1,5 +1,4 @@
  let shoppingExpense = (details) => {
-	console.log("inside");
 	let total = 0;
 	details.map((value,id) => {
 		/* To calculate total amount*/
